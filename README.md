@@ -5,25 +5,40 @@
 
 ### 📌AIMBOT
 
-  Bind
-  Bone
-  Draw FOV
-  Aim Lock
-  Invisibles
-  Draw Snapline
+   Bind
+  
+   Bone
+  
+   Draw FOV
+  
+   Aim Lock
+  
+   Invisibles
+  
+   Draw Snapline
+  
    FOV
+  
    Smooth
 
 ### 📌VISUALS
 
-    - Player ESP
-    - Style [2D, Corner]
-    -Health Bar
+    Player ESP
+    
+    Style [2D, Corner]
+    
+    Health Bar
+    
     Nickname
+    
     Distance
+    
     Skeleton
+    
     Snapline
+    
     Filled
+    
     Head
 
 ### 📌MISC
