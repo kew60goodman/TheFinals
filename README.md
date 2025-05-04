@@ -5,21 +5,21 @@
 
 ### 📌AIMBOT
 
-   Bind
+      Bind
   
-   Bone
+      Bone
   
-   Draw FOV
+     Draw FOV
   
-   Aim Lock
+     Aim Lock
   
-   Invisibles
+     Invisibles
   
-   Draw Snapline
+     Draw Snapline
   
-   FOV
+     FOV
   
-   Smooth
+     Smooth
 
 ### 📌VISUALS
 
